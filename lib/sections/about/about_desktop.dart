@@ -140,6 +140,7 @@ class AboutDesktop extends StatelessWidget {
                               ),
                             ),
                           ),
+                         /*
                           Space.x1!,
                           Container(
                             color: Colors.grey[900]!,
@@ -156,6 +157,7 @@ class AboutDesktop extends StatelessWidget {
                                   ),
                                 ),
                               )
+                              */
                         ],
                       ),
                     ],

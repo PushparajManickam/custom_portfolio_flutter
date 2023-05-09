@@ -1,4 +1,4 @@
-package com.hmz.folio
+package com.coderpush.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 

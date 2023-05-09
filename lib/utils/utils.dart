@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:folio/sections/about/about.dart';
 import 'package:folio/sections/contact/contact.dart';
 import 'package:folio/sections/home/home.dart';
-import 'package:folio/sections/portfolio/portfolio.dart';
 import 'package:folio/sections/services/services.dart';
 import 'package:folio/widget/footer.dart';
 
@@ -10,8 +9,8 @@ class StaticUtils {
   static const String hi = 'assets/hi.gif';
 
   // photos
-  static const String mobilePhoto = 'assets/photos/mobile.png';
-  static const String coloredPhoto = 'assets/photos/colored.png';
+  static const String mobilePhoto = 'assets/photos/mobile.jpg';
+  static const String coloredPhoto = 'assets/photos/colored.jpg';
   static const String blackWhitePhoto = 'assets/photos/black-white.png';
 
   // work
@@ -38,18 +37,20 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://facebook.com/pushparaj2709",
+    "https://instagram.com/mr__pushparaj",
+    "https://twitter.com/pushparaj2709",
+    "https://www.linkedin.com/in/pushparaj-manickam",
+    "https://github.com/PushparajManickam",
+    "https://medium.com/@coderpush2709"
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
+      'https://drive.google.com/file/d/1bDBBsDqxqRMyrdTmlxl0xhkWr9ptErwk/view?usp=sharing';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = "https://github.com/PushparajManickam";
+  static const String firstName = "Pushparaj";
+  static const String secondName = "Manickam";
 }
 
 class BodyUtils {
@@ -57,7 +58,7 @@ class BodyUtils {
     HomePage(),
     About(),
     Services(),
-    Portfolio(),
+    // Portfolio(),
     Contact(),
     Footer(),
   ];
