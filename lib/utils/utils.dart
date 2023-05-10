@@ -40,7 +40,7 @@ class StaticUtils {
     "https://facebook.com/pushparaj2709",
     "https://instagram.com/mr__pushparaj",
     "https://twitter.com/pushparaj2709",
-    "https://www.linkedin.com/in/pushparaj-manickam",
+    "https://linkedin.com/in/pushparaj-manickam",
     "https://github.com/PushparajManickam",
     "https://medium.com/@coderpush2709"
   ];
@@ -51,6 +51,9 @@ class StaticUtils {
   static const String gitHub = "https://github.com/PushparajManickam";
   static const String firstName = "Pushparaj";
   static const String secondName = "Manickam";
+  static const String emailAddress = "Pushparaj27091998@gmai.com";
+  static const String addressLocation = "Chennai, Tamilnadu";
+  static const String age = "24";
 }
 
 class BodyUtils {

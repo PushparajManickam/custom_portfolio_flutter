@@ -96,11 +96,11 @@ class AboutMobile extends StatelessWidget {
           ),
           const AboutMeData(
             data: "Name",
-            information: "Muhammad Hamza",
+            information: StaticUtils.firstName,
           ),
           const AboutMeData(
             data: "Email",
-            information: "hamza.6.shakeel@gmail.com",
+            information: StaticUtils.emailAddress,
           ),
           Space.y!,
           OutlinedButton(
@@ -110,6 +110,7 @@ class AboutMobile extends StatelessWidget {
                     ? html.window.open(StaticUtils.resume, "pdf")
                     : openURL(StaticUtils.resume);
               }),
+          /*
           Space.y!,
           Wrap(
               alignment: WrapAlignment.center,
@@ -125,6 +126,7 @@ class AboutMobile extends StatelessWidget {
                     ),
                   )
                   .toList()),
+                  */
         ],
       ),
     );

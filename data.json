@@ -1,6 +1,6 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Pushparaj Manickam",
+    "email": "pushparaj27091998@gmail.com",
     "subtitles": [
         "Flutter Developer",
         "Technical Writer",
@@ -11,38 +11,38 @@
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
+            "url": "https://facebook.com/pushparaj2709"
         },
         {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
+            "url": "https://instagram.com/mr__pushparaj"
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://twitter.com/pushparaj2709"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/mhmzdev"
+            "url": "https://linkedin.com/in/pushparaj-manickam"
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
+            "url": "https://github.com/PushparajManickam"
         },
         {
             "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url": "https://medium.com/@coderpush2709"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "aboutMeHeadline": "I'm Pushparaj Manickam, a Flutter developer and UI/UX designer.",
+    "aboueMeDetails": "Am a skilled flutter developer. If looking for a highly skilled and rich experience mobile expert with a deep knownledge, a professional attitude, excellent communication skills and the highest code quality, then I'm the person looking for. Knownledge of UI/UX, and hand on experience designing in UI Working provider package for state management and firebase for application analysis. Experience developing with RESTAPI for backend and SQL Server for database",
     "technologies": [
         "Flutter",
         "Dart",
         "Python",
         "Java",
         "C++",
-        "Flask"
+        "C"
     ],
     "services": [
         {
@@ -145,15 +145,15 @@
     "contact": [
         {
             "param": "address",
-            "value": "Attock, Pakistan"
+            "value": "Chennai, India"
         },
         {
             "param": "phone",
-            "value": "+92 346 0159889"
+            "value": "+91 XXXXX 43437"
         },
         {
             "param": "email",
-            "value": "hamza.6.shakeel@gmail.com"
+            "value": "pushparaj27091998@gmail.com"
         }
     ]
 }
