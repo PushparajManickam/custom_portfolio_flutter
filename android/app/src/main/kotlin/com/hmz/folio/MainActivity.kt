@@ -1,4 +1,4 @@
-package com.coderpush.portfolio
+package com.pushparaj.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 
